@@ -1,0 +1,12 @@
+numpy
+pandas
+pillow
+opencv-python
+scikit-learn
+matplotlib
+torch
+torchvision
+fastapi
+uvicorn
+python-multipart
+pytest
