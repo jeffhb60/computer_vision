@@ -1030,3 +1030,8 @@ Thumbs.db
 /data/sample_images/tshirt_top/000976_tshirt_top.png
 /data/sample_images/tshirt_top/000984_tshirt_top.png
 /data/sample_images/tshirt_top/000993_tshirt_top.png
+
+# Keep selected portfolio examples
+!reports/example_confusion_matrix.png
+!reports/example_classification_report.csv
+!reports/example_metrics_summary.json
