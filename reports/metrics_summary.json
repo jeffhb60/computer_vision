@@ -1,0 +1,5 @@
+{
+  "test_accuracy": 0.9216,
+  "num_test_examples": 10000,
+  "model_path": "C:\\Users\\jeffh\\PycharmProjects\\computer_vision\\models\\fashion_cnn.pt"
+}
